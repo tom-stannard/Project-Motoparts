@@ -10,6 +10,8 @@ The board of directors wants to gain a better understanding of wholesale revenue
 
 They have provided you with access to their database, which contains the following table called `sales`:
 
+<br>
+
 ## Schema
 | Column | Data type | Description |
 |--------|-----------|-------------|
@@ -24,6 +26,7 @@ They have provided you with access to their database, which contains the followi
 | `payment` | `VARCHAR` | Payment method&mdash;`Credit card`, `Transfer`, or `Cash`. |
 | `payment_fee` | `FLOAT` | Percentage of `total` charged as a result of the `payment` method. |
 
+<br>
 
 ## Requirements
 
@@ -40,15 +43,19 @@ They have requested the query output be presented in the following format:
 | product_two | --- | --- | --- |
 | ... | ... | ... | ... |
 
+<br>
+
 ## Solution Part 1: PostgreSQL
 
-[Click here to view the Jupyter Notebook solution for part 1](https://github.com/tom-stannard/Project-Motoparts/blob/main/project-motoparts.ipynb), which details my approach to querying the `sales` table and extracting the requested data. 
+[Click here to view the Jupyter Notebook solution for part 1](https://github.com/tom-stannard/Project-Motoparts/blob/main/project-motoparts.ipynb), which details my approach to querying the `sales` table and extracting data in the requested format. 
 
+<br>
 
 ## Solution Part 2: R & R-Trelliscope
 
 [Click here to view the Jupyter Notebook solution for part 2](/), which details my approach to visualising the various indicators of location and product performance from the previously extracted data.
 
+<br>
 
 ## Solution Part 3: Looker Studio
 
