@@ -51,12 +51,12 @@ They have requested the query output be presented in the following format:
 
 <br>
 
-## Solution Part 2: R & R-Trelliscope
+## Solution Part 2: R & TrelliscopeJS
 
-[Click here to view the Jupyter Notebook solution for part 2](/), which details my approach to visualising the various indicators of location and product performance from the previously extracted data.
+[Click here to view the Jupyter Notebook solution for part 2](/), which details my approach to visualising the various indicators of location and product performance from the previous excercise.
 
 <br>
 
 ## Solution Part 3: Looker Studio
 
-[Click here to view the Dashboard solution for part 3](/), where I have designed and published a scalable performance dashboard in Google Looker Studio based on the original `sales` data. 
+[Click here to view the Dashboard solution for part 3](/), where I have designed and published a scalable performance dashboard in Google Looker Studio based on the original `sales` table. 
