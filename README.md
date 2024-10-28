@@ -53,7 +53,7 @@ They have requested the query output be presented in the following format:
 
 ## Solution Part 2: R & TrelliscopeJS
 
-[Click here to view the Jupyter Notebook solution for part 2](/), which details my approach to visualising the various indicators of location and product performance from the previous excercise.
+[Click here to view the Quarto Document solution for part 2](https://tom-stannard.github.io/Project-Motoparts/), which details my approach to visualising the various indicators of location and product performance from the previous excercise.
 
 <br>
 
