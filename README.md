@@ -6,9 +6,9 @@ Motoparts is an imaginary company that sells motorcycle parts, and they've asked
 
 They operate three warehouses in Australia, selling both retail and wholesale. They offer a variety of parts and accept credit cards, cash, and bank transfer as payment methods. Each payment type incurs a different fee.
 
-The board of directors wants to gain a better understanding of wholesale revenue by product line, and how this varies month-to-month across warehouses. You have been tasked with calculating the net revenue for each product line and grouping results by month and warehouse. The results should be filtered so that only `"Wholesale"` orders are included.
+The board of directors wants to gain a better understanding of wholesale revenue by product line, and how this varies month-to-month across warehouses. I have been tasked with calculating the net revenue for each product line and grouping results by month and warehouse. The results should be filtered so that only `"Wholesale"` orders are included.
 
-They have provided you with access to their database, which contains the following table called `sales`:
+They have provided me with access to their database, which contains the following table called `sales`:
 
 <br>
 
