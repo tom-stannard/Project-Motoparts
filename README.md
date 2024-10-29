@@ -59,4 +59,4 @@ They have requested the query output be presented in the following format:
 
 ## Solution Part 3: Looker Studio
 
-[Click here to view the Dashboard solution for part 3](/), where I have designed and published a scalable performance dashboard in Google Looker Studio based on the original `sales` table. 
+[Click here to view the Dashboard solution for part 3](https://lookerstudio.google.com/reporting/dbc972b7-07fe-4e8b-a692-b1536b73fad9), where I have designed and published a scalable performance dashboard in Google Looker Studio based on the original `sales` table. 
